@@ -1,0 +1,37 @@
+body{
+    width: 100%;
+}
+#navbar{
+    position: relative;
+    flex-direction: column;
+    /* display: block; */
+    align-items: center;
+    justify-content: center;
+}
+#Home::after{
+    height: 145%;
+}
+#services{
+    flex-direction: column;
+}
+.services-container h1{
+    margin: 150px 0px 20px 0px;
+}
+#clients{
+    flex-direction: column;
+}
+#contact{
+    margin: 100px;
+}
+#contact{
+    margin: 300px 0px 10px 0px;
+}
+.submit{
+    width: 100%;
+}
+#Home p{
+    font-size: 0.9rem;
+}
+.h-primary{
+    font-size: 2.5rem;
+}
